@@ -6,8 +6,6 @@ Tutorial language JavaScript
 
 <br/>
 
-![DropIn preview](./dropin-ios.jpg)
-
 <br/>
 
 ## Installation
