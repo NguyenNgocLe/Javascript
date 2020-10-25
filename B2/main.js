@@ -15,3 +15,6 @@ var objectExample =  {
     }
 };
 console.log(objectExample.method)
+// check type of ...
+console.log(typeof objectExample)
+console.log(typeof functionExample)
