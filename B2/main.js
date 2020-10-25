@@ -18,3 +18,7 @@ console.log(objectExample.method)
 // check type of ...
 console.log(typeof objectExample)
 console.log(typeof functionExample)
+var a = NaN
+console.log(typeof null)
+var numberOne = 2
+var numberTwo = 2
